@@ -51,7 +51,7 @@
 - BSc Computer Science @ Murang'a University (2022-2026)
 - 🎓 Google Cybersecurity Pro, Cisco Ethical Hacker, APIsec Certified
 
-👉 [See Certifications](https://www.credly.com)
+👉 [See Certifications](https://www.credly.com/users/emmanuel-musau.mrpentest)
 
 ---
 
