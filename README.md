@@ -20,16 +20,16 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedinusername" target="_blank">
+  <a href="https://linkedin.com/in/emusau-ptester" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-personal-website.com" target="_blank">
+  <a href="https://emusau.netlify.app" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourtwitterusername" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://wa.me/yournumber" target="_blank">
+  <a href="https://wa.me/+254115888961" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
