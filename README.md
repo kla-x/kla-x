@@ -12,7 +12,7 @@
 - 🔥 Cybersecurity enthusiast with a passion for penetration testing, vulnerability research, and security automation.
 - 🛡️ Specialized in offensive security, ethical hacking, bug bounty hunting, and exploit research.
 - ⚡ Always learning through CTFs, scripting, and real-world challenges.
-- 🧰 Skilled in web security, network security, API hacking, and security tool development.
+- 🧰 Skilled in web security, network security, API pentesting.
 - 🤝 Open for collaboration, exciting challenges, and professional opportunities!
 
 ---
