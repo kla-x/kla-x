@@ -26,7 +26,7 @@
   <a href="https://emusau.netlify.app" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ping_572" target="_blank">
+  <a href="https://twitter.com/ee_musau" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://wa.me/+254115888961" target="_blank">
