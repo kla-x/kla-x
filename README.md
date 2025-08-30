@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Musau</h1>
-<h3 align="center">Penetration Tester | Cybersecurity Researcher | Developer | Ethical Hacker</h3>
+<h3 align="center"> Cybersecurity Researcher| Software Engineer | Data Science Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Guy" />
@@ -9,24 +9,24 @@
 
 ## 🧠 About Me
 
-- 🔥 Cybersecurity enthusiast with a passion for penetration testing, vulnerability research, and security automation.
-- 🛡️ Specialized in offensive security, ethical hacking, bug bounty hunting, and exploit research.
-- ⚡ Always learning through CTFs, scripting, and real-world challenges.
-- 🧰 Skilled in web security, network security, API pentesting.
-- 🤝 Open for collaboration, exciting challenges, and professional opportunities!
+- 💻 Passionate **software engineer** continuously learning to build secure and scalable systems.  
+- 📊 **Data science enthusiast** exploring insights from data through ML, AI, and analytics.  
+- 🛡️ Strong foundation in **cybersecurity & penetration testing** (web, APIs, networks).  
+- ⚡ Constant learner through projects, challenges, and open-source contributions.  
+- 🤝 Open to collaborations in **tech, data-driven solutions, and security research**.  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/emusau-ptester" target="_blank">
+  <a href="https://linkedin.com/in/e-musau" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://emusau.netlify.app" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitterusername" target="_blank">
+  <a href="https://twitter.com/ping_572" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://wa.me/+254115888961" target="_blank">
@@ -38,20 +38,20 @@
 
 ## 🛠️ Skills
 
-- Web Pentesting (XSS, SQLi, CSRF)
-- API Security (IDOR, Token Abuse)
-- Mobile App Security (Frida, JADX, SSL Unpinning)
-- Python & Bash Scripting
-- Network Recon, Forensics, Incident Response
+- **Software Engineering**: FastAPI, React, PostgreSQL, REST APIs  
+- **Data Science**: Python (Pandas, NumPy, scikit-learn), Data Analysis, Visualization  
+- **Cybersecurity**: Web/App/API Pentesting, Exploit Research, Security Automation  
+- **Scripting**: Python, Bash, Automation Tools  
+- **Networking & Systems**: Recon, Forensics, Incident Response  
 
 ---
 
 ## 📚 Education & Certs
 
-- BSc Computer Science @ Murang'a University (2022-2026)
-- 🎓 Google Cybersecurity Pro, Cisco Ethical Hacker, APIsec Certified
+- 🎓 BSc Computer Science @ Murang'a University (2022–2026)  
+- 📜 Certifications: Google Cybersecurity Professional, Cisco Ethical Hacker, APIsec Certified  
 
-👉 [See Certifications](https://www.credly.com/users/emmanuel-musau.mrpentest)
+👉 [See Certifications](https://www.credly.com/users/emmanuel-musau.mrpentest)  
 
 ---
 
@@ -60,4 +60,4 @@
 </p>
 
 ---
-<p align="center">🚀 Let's hack, build, and secure the future! 🚀</p>
+<p align="center">🚀 Blending code, data, and security to build the future! 🚀</p>
